@@ -1,9 +1,7 @@
 # Hummus & Fries | حمص وبطاطا
 
-_Hummus and fries at_
-
-_the beach are a formative_
-
+_Hummus and fries at_ <br/>
+_the beach are a formative_ <br/>
 _memory.  Enjoy!_
 
 I've tended to these recipes for years, iterating and tweaking.  I hope you enjoy them as much as my family, friends, and I do.  Let me know if you have questions or suggestions.
