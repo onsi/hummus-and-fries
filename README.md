@@ -1,2 +1,13 @@
-# hummus-and-fries
-Hummus &amp; Fries (and other tasty things)
+# Hummus & Fries | حمص وبطاطا
+
+_Hummus and fries at_
+_the beach are a formative_
+_memory.  Enjoy!_
+
+I've tended to these recipes for years, iterating and tweaking.  I hope you enjoy them as much as my family, friends, and I do.  Let me know if you have questions or suggestions.
+
+- [Fluffy, Creamy, Hummus](./hummus.md)
+  - [Kibbeh-Style Hummus Topping](./hummus-topping.md)
+- [Oven Fries](./oven-fries.md)
+- [Opinionated Smash-Burgers](./burgers.md)
+- [Mana'eesh](./manaeesh.md)
