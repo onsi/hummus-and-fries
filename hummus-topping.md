@@ -21,4 +21,4 @@
 1. Add garlic and pine nuts.  Cook until fragrant (about 30s).
 1. Add spices and salt.  Stir well to combine and cook for 30s.
 1. Place [prepared cold hummus](hummus.md) in serving dish.  Cover with spiced beef mixture.
-1. Drizzle with olive oil and serve with arabic break.
+1. Drizzle with olive oil and serve with arabic bread.
