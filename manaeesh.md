@@ -2,7 +2,7 @@
 
 Delicious.  The goal is a crunchy exterior and a chewy interior.  (Adapted from [Taste of Beirut](https://www.tasteofbeirut.com/manooshe-zaatar-on-the-saj-or-bbq-grill/))
 
-# Ingredients
+## Ingredients
 - [ ] 1 heaping teaspoon active dry yeast
 - [ ] 1 teaspoon sugar
 - [ ] 2 cups unbleached all-purpose flour.  1.5 cups whole-wheat flour

@@ -8,6 +8,8 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
 
 - [Fluffy, Creamy, Hummus](./hummus.md)
   - [Kibbeh-Style Hummus Topping](./hummus-topping.md)
+- [Kibbeh](./kibbeh.md)
+- [Mana'eesh](./manaeesh.md)
 - [Oven Fries](./oven-fries.md)
 - [Opinionated Smash-Burgers](./burgers.md)
-- [Mana'eesh](./manaeesh.md)
+- [Shish-Taouk](./shish-taouk.md)
