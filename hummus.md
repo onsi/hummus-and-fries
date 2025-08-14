@@ -13,7 +13,8 @@ My wife Hannah landed on these ratios and I've been tweaking the method ever sin
 
 ## Method
 
-1. Mash garlic with 1/4 tsp salt and juice lemons and place both in food processor for 2 minutes.  Let them sit, the lemon will take the bitter edge off the garlic.
+1. Mash garlic with 1/4 tsp salt.
+1. Juice lemons and place lemons and garlic in food processor bowl.  Let them sit for two minutes, the lemon will take the bitter edge off the garlic.
 1. Add tahini and remaining 1/4 tsp salt.  Blend for 2 minutes.
 1. Add peeled chickpeas, olive oil and water.  Blend for 20 minutes.
 1. Transfer to tupperware and refrigerate.
