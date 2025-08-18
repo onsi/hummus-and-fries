@@ -4,11 +4,6 @@ There are many variations of kafta - our version of meatballs - in the middle ea
 
 ## Ingredients
 
-kafka tahini
-- kafta - onions, parsley, tomato paste, pepper paste, seven spices.  onion should be dry.  make into disks.  bake. snoobs.
-- tahini sauce - add all in the beginning.  heat water before adding if you need.  fry  onions half moon.  1/2 cup tahini with 1.5C water and 0.25C lemon.  salt.  add gently to heat and stir until the oil in the tahini separates.  then add to kafka.  the  cook for 10 minutes more.
-
-
 ### Kafta
 
 - [ ] 1 lb 90% ground beef
