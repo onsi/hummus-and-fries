@@ -37,7 +37,7 @@ There are many variations of kafta - our version of meatballs - in the middle ea
 5. Add parsley/garlic/pine nut paste to the mixing bowl.  Mix well.
 6. Add ground beef and mix until well incorporated.  I use my hands.
 7. Line a baking sheet with aluminum foil.
-8. With your hands form individual discs (think hockey puck, but not quite as flat) of the meat mixture.  These are about 1.5-2” in diameter and about 1/2” thick.  I get ~28 discs from 1lb of ground beef but your results may vary and that’s ok.
+8. With your hands form individual discs (think hockey puck, but not quite as flat) of the meat mixture.  These are about 2-3” in diameter and about 1/2” thick.  I get ~28 discs from 1lb of ground beef but your results may vary and that’s ok.
 9. Broil on hi on top rack in oven for 5-7 minutes (keep an eye on them after 5 minutes - you want a bit of charring but don’t go overboard).
 10. Flip kafta discs and broil for another 3-5 minutes until browned on the other side.  If by some quirk in the laws of physics you haven’t hit the kill temperature of 165ºF keep broiling until you do.
 11.  Remove from oven and set oven temperature to 375ºF.
