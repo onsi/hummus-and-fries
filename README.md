@@ -13,4 +13,4 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
 - [Oven Fries](./oven-fries.md)
 - [Opinionated Smash-Burgers](./burgers.md)
 - [Shish-Taouk](./shish-taouk.md)
-- [Kata in Tahini](./kafta-in-tahini.md)
+- [Kafta in Tahini](./kafta-in-tahini.md)
