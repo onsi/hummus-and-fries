@@ -14,3 +14,4 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
 - [Opinionated Smash-Burgers](./burgers.md)
 - [Shish-Taouk](./shish-taouk.md)
 - [Kafta in Tahini](./kafta-in-tahini.md)
+- [Cheater's Chili](./cheaters-chili.md)
