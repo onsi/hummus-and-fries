@@ -32,8 +32,8 @@ There are many variations of kafta - our version of meatballs - in the middle ea
 
 1. Fry pine nuts and garlic in oil over medium-high heat.  Stir occasionally and keep an eye on them - the pine nuts can burn quickly.  You want them to get golden brown and have a nutty scent.  Place on paper-towel lined plate.
 2. In a large mixing bowl combine diced onion, tomato paste, red pepper paste, seven spice blend, and salt.  Mix together well with a fork.
-3. In a pestle and mortar, mash up pine nuts, garlic, and parsley into a fine paste.
-4. Add parsley pine nut/garlic paste and mash some more.  The parsley will eventually break down and join the paste.  Alternatively, finely dice the parsley.
+3. In a pestle and mortar, mash up pine nuts and garlic into a fine paste.
+4. Add parsley to the pine nut/garlic paste and mash some more.  The parsley will eventually break down and join the paste.  Alternatively, finely dice the parsley.
 5. Add parsley/garlic/pine nut paste to the mixing bowl.  Mix well.
 6. Add ground beef and mix until well incorporated.  I use my hands.
 7. Line a baking sheet with aluminum foil.
