@@ -15,3 +15,4 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
 - [Shish-Taouk](./shish-taouk.md)
 - [Kafta in Tahini](./kafta-in-tahini.md)
 - [Cheater's Chili](./cheaters-chili.md)
+- [Sitto's Pasta Sauce](./sitto-sauce.md)
