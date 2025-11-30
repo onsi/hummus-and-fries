@@ -4,7 +4,7 @@ My grandmother, Sitto Cosette, came up with this simple but delicious - and dist
 
 ## Ingredients
 
-- [ ] 1 large red onion, chopeped.
+- [ ] 1 large red onion, chopped.
 - [ ] 3 tablespoons olive oil
 - [ ] 4 cloves garlic, minced
 - [ ] 1 lb 93% ground beef
