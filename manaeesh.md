@@ -18,7 +18,7 @@ Using a pizza stone is essential.
 
 ### Make the dough
 1. Dissolve yeast and sugar in 1/4 cup warm water.  Place in a warm place to proof (a few minutes - just want to see it get thick, opaque and frothy to “prove” the yeast is alive.
-2. Place both flours in stand mixer.  Mix with dough hook.
+2. Place both flours and salt in stand mixer.  Mix with dough hook.
 3. Add 3 Tbsp oil, keep mixing.
 4. Add proofed yeast, keep mixing.
 5. While mixing, gradually add 1 cup warm water.  It should come together and form a ball.
