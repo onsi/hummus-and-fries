@@ -7,17 +7,28 @@ My wife Hannah landed on these ratios and I've been tweaking the method ever sin
 - [ ] 1 can of [Trader Joe's Organic chickpeas](https://www.traderjoes.com/home/products/pdp/organic-garbanzo-beans-050261), drained, strained, and **peeled**
 - [ ] 1/3 cup [Mid-East Tahini](https://www.amazon.com/EAST-SESAME-SPREAD-TAHINI-PLASTIC/dp/B07FM2N6T8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AA9C1GM513EBY)  (stir container well before pouring)
 - [ ] 1/4 cup lemon juice (from ~2 freshly squeezed lemons)
-- [ ] 1/4 cup olive oil + 2 Tbsp water
+- [ ] 5 Tbsp olive oil + 1 Tbsp water
 - [ ] 1/2 tsp salt (or see below)
 - [ ] 1 clove garlic (mashed in wooden [mortar and pestle](https://www.amazon.com/s?k=wooden+mortar+and+pestle&crid=1BUF1A6X31XDC&sprefix=wooden+mortar+and+pestl%2Caps%2C126&ref=nb_sb_noss_2) with 1/2 the salt)
 
-## Method
+## Method 1 - I need hummus in an hour
 
 1. Mash garlic with 1/4 tsp salt.
 1. Juice lemons and place lemons and garlic in food processor bowl.  Let them sit for two minutes, the lemon will take the bitter edge off the garlic.
 1. Add tahini and remaining 1/4 tsp salt.  Blend for 2 minutes.
 1. Add peeled chickpeas, olive oil and water.  Blend for 20 minutes.
-1. Transfer to tupperware and refrigerate.
+1. Transfer to tupperware and refrigerate - drizzle oil on top to prevent the top from drying out.
+1. Serve with a drizzle of olive oil and/or my [meaty hummus topping](hummus-topping.md).
+
+## Method 2 - I'm starting the night before
+
+1. Mash garlic with 1/4 tsp salt.
+1. Juice lemons and place lemons and garlic in a tupperware container.
+1. Add peeled chickpeas and remaining 1/4 tsp salt to the tupperware container. Mix well. Cover and store in fridge overnight.
+1. The next day, combine tahini and olive oil in food processor.  Blend for 2 minutes.
+1. With a potato masher, mash chickpea/lemon/garlic mixture.
+1. Add mashed chickpeas to food processor.  Blend gofr 20 minutes.
+1. Transfer to tuppwerare and refrigerate - drizzle oil on top to prevent the top from drying out.
 1. Serve with a drizzle of olive oil and/or my [meaty hummus topping](hummus-topping.md).
 
 ---
@@ -38,10 +49,6 @@ I follow these steps:
 4. Place a bowl to deposit peels.
 5. Take one chickpea, pinch it gently between your thumb and index finger, and squeeze.  The chickpea should pop out of the skin.  Place the skin in the bowl and the chickpea in the food processor.
 6. Repeat 😉.
-
-Bonus points when you're in a hurry:
-
-Use [noise cancelling headphones](https://www.apple.com/airpods-max/) and run the food processor while you peel and add chickpeas one at a time.  Extra time in food processor = extra fluffy hummus.
 
 #### Why don't you use dried chickpeas?
 
