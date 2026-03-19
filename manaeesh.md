@@ -5,12 +5,16 @@ Delicious.  The goal is a crunchy exterior and a chewy interior.  (Adapted from 
 Using a pizza stone is essential.
 
 ## Ingredients
+
+### Dough
 - [ ] 1 heaping teaspoon active dry yeast
 - [ ] 1 teaspoon sugar
 - [ ] 2 cups unbleached all-purpose flour.  1.5 cups whole-wheat flour
 - [ ] 2 teaspoons sea salt
 - [ ] 3 tablespoons extra-virgin olive oil for dough.  2 additional tablespoons for greasing the bowl.
 - [ ] 1.25 cups warm water (110ºF)
+
+#### Zaatar Mixture
 - [ ] 3/4 cup [Mid-East Jordanian-style zaatar](https://www.movehalal.com/products/zaatar)
 - [ ] 3/4 cup extra-virgin olive oil for zaatar mixture
 

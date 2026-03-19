@@ -10,6 +10,7 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
   - [Kibbeh-Style Hummus Topping](./hummus-topping.md)
 - [Kibbeh](./kibbeh.md)
 - [Mana'eesh](./manaeesh.md)
+- [Lahm'b'Ajeen][./lamajun.md]
 - [Oven Fries](./oven-fries.md)
 - [Opinionated Smash-Burgers](./burgers.md)
 - [Shish-Taouk](./shish-taouk.md)
