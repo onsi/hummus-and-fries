@@ -18,7 +18,7 @@ Super simple, but delicious!, vegetarian fare.
 ## Method
 
 1. Place cut cauliflower in bowl and toss in olive oil with 1/4 salt and 1/4 tsp pepper.
-2. Place on parchment-sheat lined baking pan and bake at 400ºF until golden and caramelized - roughly 20-25 minutes, turning halfway through baking.
+2. Place on parchment-sheet lined baking pan and bake at 400ºF until golden and caramelized - roughly 20-25 minutes, turning halfway through baking.
 3. In pot fry diced onions and 1/4 tsp pepper in oil until soft and yellow in color.
 4. Add minced garlic, coriander powder, trumeric, pine nuts, salt.  Fry until aromatic (30s).
 5. Add the roasted cauliflower and enough water to cover.
