@@ -19,3 +19,4 @@ I've tended to these recipes for years, iterating and tweaking.  I hope you enjo
 - [Sitto's Pasta Sauce](./sitto-sauce.md)
 - [Cauliflower and Rice](./cauliflower-and-rice.md)
 - [Baked Potatoes](./baked-potatoes.md)
+- [Ethnically Ambiguous Chicken and Rice](./ethincally-ambiguous-chicken.md)
